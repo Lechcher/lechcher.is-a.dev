@@ -8,6 +8,19 @@
          "mx.smtp.dev"
       ]
    },
+   "A":"216.198.79.1",
+   "TXT":[
+      "_vercel",
+      "vc-domain-verify=lechcher.is-a.dev,b75564d3517b77e3c576"
+   ],
+   "TXT":[
+      "_vercel",
+      "vc-domain-verify=www.lechcher.is-a.dev,2399d726c56648a1bdb5"
+   ],
+   "CNAME":[
+      "www",
+      "34cf79f384fefe97.vercel-dns-017.com."
+   ],
    "proxied":true,
    "redirect_config":{
       "custom_paths":{
