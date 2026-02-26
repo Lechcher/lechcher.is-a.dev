@@ -3,7 +3,7 @@
     "username": "Lechcher",
     "email": "lechcher@mail.com"
   },
-  "record": {
+  "records": {
     "TXT": [
       "vc-domain-verify=lechcher.is-a.dev,b75564d3517b77e3c576"
     ]
