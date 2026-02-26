@@ -10,12 +10,5 @@
     "MX": [
       "mx.smtp.dev"
     ]
-  },
-  "proxied": true,
-  "redirect_config": {
-    "custom_paths": {
-      "/github": "https://github.com/Lechcher"
-    },
-    "redirect_paths": true
   }
 }
